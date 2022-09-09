@@ -8,8 +8,11 @@
 # THANKS
 
     Thanks to my geat teacher!
+    Plaese leave a review if you like this course!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
+    
