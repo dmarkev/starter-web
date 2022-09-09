@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dmitri Markevitch dmitri.markevitch@wdc.com @ASciences
 
 # THANKS
 
